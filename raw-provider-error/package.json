@@ -1,0 +1,7 @@
+{
+  "name": "raw-provider-error",
+  "type": "module",
+  "exports": {
+    "./tui": "./tui.ts"
+  }
+}
